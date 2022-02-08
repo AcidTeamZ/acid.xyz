@@ -155,10 +155,10 @@ local library = {
 	windows = {},
     pointers = {},
     settings = {
-        guiname = "Hexagon",
-		title = "Hexagon [Exodus Edition]",
+        guiname = "Acid.xyz",
+		title = "Acid.xyz [VIP Edition]",
 		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = " Exodus Winning $$$",
+        footer = " VIP Winning $$$",
         modal = true,
         font = Enum.Font.SourceSans,
         textsize = 16,
